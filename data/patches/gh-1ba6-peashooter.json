@@ -1,0 +1,40 @@
+{
+	"id": -1,
+	"name": "Peashooter",
+	"description": "Peashooter is a main recurring character and one of the most well-known ones within the Plants vs. Zombies franchise. Peashooter serves as the player's first line of defense against the zombies and is often the first plant the player unlocks or plays as.",
+	"links": {
+		"website": [
+			"https://plantsvszombies.fandom.com/wiki/Peashooter"
+		]
+	},
+	"path": {
+		"250": [
+			[
+				-1369,
+				22
+			],
+			[
+				-1369,
+				35
+			],
+			[
+				-1357,
+				35
+			],
+			[
+				-1357,
+				22
+			],
+			[
+				-1358,
+				22
+			]
+		]
+	},
+	"center": {
+		"250": [
+			-1363,
+			29
+		]
+	}
+}
