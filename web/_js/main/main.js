@@ -26,7 +26,7 @@ const maxZoom = 128
 const minZoom = 0.125
 
 let zoomOrigin = [0, 0]
-let scaleZoomOrigin = [0, 0]
+let scaleZoomOrigin = [canvasCenter.x, canvasCenter.y]
 
 let dragging = false
 let lastPosition = [0, 0]
