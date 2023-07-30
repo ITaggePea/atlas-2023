@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "The Knight",
+	"description": "The Knight is the protagonist and only playable character of Hollow Knight.",
+	"links": {
+		"website": [
+			"https://hollowknight.fandom.com/wiki/Knight"
+		]
+	},
+	"path": {
+		"16-23": [
+			[
+				270,
+				118
+			],
+			[
+				292,
+				118
+			],
+			[
+				292,
+				142
+			],
+			[
+				270,
+				142
+			]
+		]
+	},
+	"center": {
+		"16-23": [
+			281,
+			130
+		]
+	}
+}
